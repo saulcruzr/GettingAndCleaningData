@@ -7,9 +7,12 @@ Saul Cruz
 Files in this project
 ----------
 This project contains the following files:
+
 -README file (you're reading it)
--CodeBook.md
--run_analysis.R
+
+-CodeBook.md (Describes the variables used in this analysis)
+
+-run_analysis.R (Code)
 
 ------------
 Objective
