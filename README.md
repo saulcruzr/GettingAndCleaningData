@@ -1,4 +1,12 @@
-This projec contains the following files:
+----
+Author
+-----
+Saul Cruz
+
+---------
+Files in this project
+----------
+This project contains the following files:
 -README file (you're reading it)
 -CodeBook.md
 -run_analysis.R
